@@ -58,10 +58,10 @@
 
 ---
 
-## 📂 Repositorios Recientes
+## 📂 Repositorios
 
-<!-- RECENT_REPOS:START -->
-<!-- RECENT_REPOS:END -->
+👉 https://github.com/brandy-sinche-dev?tab=repositories
+
 
 ---
 
