@@ -1,18 +1,25 @@
-name: Update README with Recent Repos
+name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *" # todos los días
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Update README
-        uses: gautamkrishnar/blog-post-workflow@master
+        run: |
+          echo "<!-- Last updated: $(date) -->" >> README.md
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
         with:
-          comment_tag_name: "RECENT_REPOS"
-          feed_list: "https://github.com/brandy-sinche-dev.atom"
+          message: "update readme"
+          add: README.md
