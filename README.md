@@ -67,7 +67,9 @@
 
 ## 🐍 Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/brandy-sinche-dev/brandy-sinche-dev/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brandy-sinche-dev/brandy-sinche-dev/main/dist/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
