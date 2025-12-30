@@ -58,6 +58,13 @@
 
 ---
 
+## 📂 Repositorios Recientes
+
+<!-- RECENT_REPOS:START -->
+<!-- RECENT_REPOS:END -->
+
+---
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/brandy-sinche-dev/brandy-sinche-dev/output/github-contribution-grid-snake.svg)
