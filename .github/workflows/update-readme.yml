@@ -1,9 +1,8 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+  # Borramos el 'schedule' para que no se ejecute solo
+  workflow_dispatch: # Ahora solo se activará si tú le das al botón manual o si otro proceso lo llama
 
 permissions:
   contents: write
@@ -16,10 +15,12 @@ jobs:
 
       - name: Update README
         run: |
-          echo "<!-- Last updated: $(date) -->" >> README.md
+          echo "" >> README.md
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
+          author_name: "github-actions[bot]" # Se identifica como bot
+          author_email: "41898282+github-actions[bot]@users.noreply.github.com"
           message: "update readme"
           add: README.md
