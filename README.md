@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Brandy Sinche
+  Hola 👋, Soy Brandy Sinche
 </h1>
 
 <p align="center">
@@ -8,10 +8,10 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software**
-- 💡 Me apasiona crear **software que resuelve problemas reales**
+- 💡 Me apasiona crear **software que resuelvan problemas reales**
 - 🛠️ Interesado en **Backend, lógica y estructuras de datos**
 - 🚀 En constante aprendizaje y mejora continua
 - 📚 Me gusta aplicar buenas prácticas y escribir código limpio
@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Lenguajes de programación
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white"/>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
 </p>
 
-### ⚙️ Tools
+### ⚙️ Herramientas
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
@@ -73,7 +73,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contactame
 
 <p>
   <a href="mailto:brandisinchecastellanos@gmail.com">
