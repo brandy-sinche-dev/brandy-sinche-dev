@@ -19,10 +19,10 @@
 <table align="center" border="0" cellpadding="0" cellspacing="8" width="100%">
   <tr>
     <td align="center" valign="middle" width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brandy-sinche-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
+      <img src="https://github-readme-stats-five-mu.vercel.app/api?username=brandy-sinche-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
     </td>
     <td align="center" valign="middle" width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brandy-sinche-dev&layout=compact&theme=tokyonight&hide_border=true&langs=8&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
+      <img src="https://github-readme-stats-five-mu.vercel.app/api/top-langs/?username=brandy-sinche-dev&layout=compact&theme=tokyonight&hide_border=true&langs=8&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
     </td>
   </tr>
 </table>
@@ -43,11 +43,11 @@
   <tr>
     <td align="center" valign="middle" width="50%">
       <a href="https://github.com/brandy-sinche-dev?tab=repositories">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brandy-sinche-dev&layout=donut&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="100%"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/top-langs/?username=brandy-sinche-dev&layout=donut&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="100%"/>
       </a>
     </td>
     <td align="center" valign="middle" width="50%">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brandy-sinche-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
+      <img src="https://github-readme-stats-five-mu.vercel.app/api?username=brandy-sinche-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&icon_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
     </td>
   </tr>
 </table>
@@ -126,12 +126,12 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/brandy-sinche-dev/ecommerce-backend">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brandy-sinche-dev&repo=ecommerce-backend&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/pin/?username=brandy-sinche-dev&repo=ecommerce-backend&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117"/>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/brandy-sinche-dev/frontend-portafolio">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brandy-sinche-dev&repo=frontend-portafolio&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/pin/?username=brandy-sinche-dev&repo=frontend-portafolio&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117"/>
       </a>
     </td>
   </tr>
@@ -140,12 +140,12 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/brandy-sinche-dev/final-stage">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brandy-sinche-dev&repo=final-stage&theme=tokyonight&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/pin/?username=brandy-sinche-dev&repo=final-stage&theme=tokyonight&hide_border=true&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117"/>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/brandy-sinche-dev/Jarvis-Desktop-Voice-Assistant">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brandy-sinche-dev&repo=Jarvis-Desktop-Voice-Assistant&theme=tokyonight&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9&bg_color=0d1117"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/pin/?username=brandy-sinche-dev&repo=Jarvis-Desktop-Voice-Assistant&theme=tokyonight&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9&bg_color=0d1117"/>
       </a>
     </td>
   </tr>
@@ -154,12 +154,12 @@
   <tr>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/brandy-sinche-dev/proyecto-integrador-2-house-broker-peru">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brandy-sinche-dev&repo=proyecto-integrador-2-house-broker-peru&theme=tokyonight&hide_border=true&title_color=ec4899&icon_color=ec4899&text_color=c9d1d9&bg_color=0d1117"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/pin/?username=brandy-sinche-dev&repo=proyecto-integrador-2-house-broker-peru&theme=tokyonight&hide_border=true&title_color=ec4899&icon_color=ec4899&text_color=c9d1d9&bg_color=0d1117"/>
       </a>
     </td>
     <td align="center" valign="top" width="50%">
       <a href="https://github.com/brandy-sinche-dev/banco-poo-python">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brandy-sinche-dev&repo=banco-poo-python&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/pin/?username=brandy-sinche-dev&repo=banco-poo-python&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117"/>
       </a>
     </td>
   </tr>
@@ -168,7 +168,7 @@
   <tr>
     <td align="center" valign="top" width="100%" colspan="2">
       <a href="https://github.com/brandy-sinche-dev/proyecto-pruebas-sistema-de-citas">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=brandy-sinche-dev&repo=proyecto-pruebas-sistema-de-citas&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117"/>
+        <img src="https://github-readme-stats-five-mu.vercel.app/api/pin/?username=brandy-sinche-dev&repo=proyecto-pruebas-sistema-de-citas&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117"/>
       </a>
     </td>
   </tr>
