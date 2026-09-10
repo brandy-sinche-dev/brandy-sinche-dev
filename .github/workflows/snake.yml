@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * 0" # Solo se ejecutará los domingos a medianoche
+    - cron: "0 0 * * *" # Runs daily to keep the snake up to date with current contributions
   workflow_dispatch:
 
 permissions:
@@ -19,11 +19,12 @@ jobs:
           github_user_name: brandy-sinche-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v3.1.0 # Usamos esta acción que es más limpia
-        with:
-          target_branch: output # Los archivos se van a una rama aparte
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push snake
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "chore: update contribution snake" || echo "No changes to commit"
+          git push
